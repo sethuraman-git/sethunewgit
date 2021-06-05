@@ -5,6 +5,7 @@ public class Fi {
 		System.out.println("sfvjnlsjdflnv");
 	    System.out.println("automatio");
 	    System.out.println("manual");
+	    System.out.println("python");
 	}
 
 }
