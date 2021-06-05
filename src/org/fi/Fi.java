@@ -10,6 +10,7 @@ public class Fi {
 	    System.out.println("automatio");
 	    System.out.println("manual");
 	    System.out.println("python");
+	    System.out.println("ruby");
 	}
 
 }
